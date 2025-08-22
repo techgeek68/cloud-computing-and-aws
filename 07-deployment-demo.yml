@@ -1,0 +1,8 @@
+# AWS CloudFormation template for an S3 bucket
+
+AWSTemplateFormatVersion: '2010-09-09'
+Resources:
+  DemoBucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: demo-cloudformation-bucket # The name of the S3 bucket to be created
