@@ -99,7 +99,6 @@ Distributed under the [MIT License](LICENSE).
 **Credits:**  
 - [techgeek68](https://github.com/techgeek68)  
 - [AWS Documentation](https://docs.aws.amazon.com/)
-- Contributors listed in [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 
 ---
 
