@@ -15,7 +15,7 @@
 - [Usage Guide](#usage-guide)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License & Credits](#license--credits)
-- [References](#references)
+
 
 ---
 
