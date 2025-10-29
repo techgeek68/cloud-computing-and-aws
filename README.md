@@ -101,9 +101,3 @@ Distributed under the [MIT License](LICENSE).
 - [AWS Documentation](https://docs.aws.amazon.com/)
 
 ---
-
-## References
-
-See [docs/references.md](docs/references.md) for further learning resources.
-
----
