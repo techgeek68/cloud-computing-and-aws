@@ -1,4 +1,4 @@
-# Cloud Computing & AWS Intro Demo
+# Introduction: Cloud Computing and AWS 
 
 ![License](https://img.shields.io/github/license/techgeek68/cloud-computing-aws-intro-demo)
 ![CI](https://github.com/techgeek68/cloud-computing-aws-intro-demo/actions/workflows/lint.yml/badge.svg)
